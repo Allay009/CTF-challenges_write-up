@@ -8,6 +8,7 @@
 <br>
 
 ![homeqz](pic/home_qz.png)
+<br>
 
 what is the SSTI:
     A server-side template injection attack (SSTI) is when a threat actor exploits a template's native syntax and injects malicious payloads into the template. The compromised template is then executed server-side. -- from google
