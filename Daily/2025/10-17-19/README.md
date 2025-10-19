@@ -5,6 +5,9 @@
 <br>
 [jinja_doc](https://jinja.palletsprojects.com/en/stable/api/#jinja2.Template.render_async)
 <br>
+<br>
+
+![homeqz](pic/home_qz.png)
 
 what is the SSTI:
     A server-side template injection attack (SSTI) is when a threat actor exploits a template's native syntax and injects malicious payloads into the template. The compromised template is then executed server-side. -- from google
