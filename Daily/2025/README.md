@@ -8,3 +8,6 @@
 
 [pie tiem](10-25-26/README.md)
 <br>
+
+[Crack the Gate 1](11-1-2/README.md)
+<br>
