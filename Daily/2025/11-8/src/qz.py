@@ -1,3 +1,4 @@
+"""
 ''.join(
     [
         chr(
@@ -9,3 +10,4 @@
         for i in range(0, len(flag), 2)
      ]
     )
+"""
