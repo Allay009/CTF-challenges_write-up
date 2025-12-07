@@ -21,5 +21,5 @@
 [SQL Direct](11-22/README.md)
 <br>
 
-[unknow](12-6/README.md)
+[ASCII number](12-6/README.md)
 <br>

@@ -5,4 +5,23 @@
 
 <br>
 
+![qz](pic/qz.png)
+<br>
+This was talk about ASCII numbers .
+we copy the ciphertext , we use a web call **cyberchef**.<br>
 
+![chef](pic/chef.png)
+<br>
+
+we Input the ciphertext.
+<br>
+
+![flag](pic/flag.png)
+<br>
+
+I try to solve the 'Permissions' question .so today question. kind a esay.
+
+![ex](pic/ex.png)
+<br>
+
+The Explanation of ASCII.
