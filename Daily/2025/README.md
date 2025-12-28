@@ -29,3 +29,6 @@
 
 [More sqli](12-20/README.md)
 <br>
+
+[SSTI2](12-27/README.md)
+<br>
