@@ -3,3 +3,5 @@
 
 [nice_netcat..](../2026/1-10/README.md)
 <br>
+
+[Specialer](../2026/1-17/README.md)
