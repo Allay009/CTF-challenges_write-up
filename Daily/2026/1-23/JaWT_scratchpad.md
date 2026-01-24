@@ -55,13 +55,40 @@ we got the key word **ilovepico**
 
 input the key word and the account we want to login. we got a long **jwt**
 
+![[last.png]]
 
+![[CTF-challenges_write-up/Daily/2026/1-23/pic/flag.png]]
 
+Let's gooooo!
 ## Root Cause
-Why the vulnerability exists.
 
+The problem of the webside is they over Trust. We need **Zero Trust** any input text! 
+
+```js
+function verifyToken(token) {
+  
+  const decoded = jwt.verify(token, PUBLIC_KEY, {
+    algorithms: undefined 
+  });
+
+  
+  if (decoded.role === 'admin') {
+    allowAdminAccess();
+  } else {
+    denyAccess();
+  }
+}
+
+```
+
+I think the webside's code like this.
 ## Generalization
-When this technique applies.
+
+I would argue that the JWT can be use on the program was 'over Trust'.
+if we want to know Is it JWT, we can check the cookie and try to in injection.
 
 ## Reflection
-What I learned.
+What I learned in this problem, the most important is the **john** . Due to John is nice password cracker tool. another one is the note of the JWT.
+
+## Some 'Chat'
+Today I go throw all the WP, I saw a lot problem, like less details. It's so suck. So I bulid a new Structure that look better more details. I hope I can keep going!
