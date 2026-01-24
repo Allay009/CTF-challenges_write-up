@@ -5,3 +5,6 @@
 <br>
 
 [Specialer](../2026/1-17/README.md)
+<br>
+
+[JaWT Scratchpad](../2026/1-23/JaWT_scratchpad.md)
