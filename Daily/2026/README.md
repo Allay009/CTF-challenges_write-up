@@ -10,4 +10,4 @@
 [JaWT Scratchpad](../2026/1-23/JaWT_scratchpad.md)
 <br>
 
-[fixme2](2026/1-31/fixme2.md)
+[fixme2](../2026/1-31/fixme2.md)
