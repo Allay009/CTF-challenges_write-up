@@ -44,17 +44,27 @@ else:
 ```python
  print('That is correct! Here\'s your flag: ' + flag) 
 ```
-The (\') will make some problem so I del it.
+The ( \ and ' ) will make some problem so I del it.
+
+```python
+ print('That is correct! Heres your flag: ' + flag) 
+```
+<br>
 
 3.But ...
 ![](pic/problem.png)
 <br>
-
-## Root Cause
-Why the vulnerability exists.
-
-## Generalization
-When this technique applies.
-
+I realize due to the i f so we need add one more '=' and we got this :
+```python
+if flag == "":
+  print('String XOR encountered a problem, quitting.')
+else:
+  print('That is correct! Heres your flag: ' + flag) 
+```
+<br>
+Then<br>
+![](pic/flag.png)
+we Got the flag!
+<br>
 ## Reflection
-What I learned.
+What I learned notice the word \ and the ' Because they are easy get Issue.
