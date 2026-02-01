@@ -69,4 +69,4 @@ Then
 we Got the flag!
 <br>
 ## Reflection
-What I learned notice the word \ and the ' Because they are easy get Issue.
+What I learned notice the word \ and the ' Because they are easy get Issue. and I learn the nano text Editor
