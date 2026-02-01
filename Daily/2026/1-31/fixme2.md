@@ -62,7 +62,9 @@ else:
   print('That is correct! Heres your flag: ' + flag) 
 ```
 <br>
-Then<br>
+Then
+<br>
+
 ![](pic/flag.png)
 we Got the flag!
 <br>
