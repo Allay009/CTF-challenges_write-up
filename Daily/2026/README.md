@@ -15,3 +15,5 @@
 
 [powercookie](../2026/2-6/PowerCookie.md)
 <br>
+[Pw-crack4](../2026/2-13/PW-Crack4.md)
+<br>
