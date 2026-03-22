@@ -1,0 +1,34 @@
+## menu for found the question
+
+[hash_qz](10-11/README.md)
+<br>
+
+[SSTI_qz](10-17-19/README.md)
+<br>
+
+[pie tiem](10-25-26/README.md)
+<br>
+
+[Crack the Gate 1](11-1-2/README.md)
+<br>
+
+[Transformation](11-8/README.md)
+<br>
+
+[Cookie Monster Secret Recipe](11-15/README.md)
+<br>
+
+[SQL Direct](11-22/README.md)
+<br>
+
+[ASCII number](12-6/README.md)
+<br>
+
+[special](12-13/README.md)
+<br>
+
+[More sqli](12-20/README.md)
+<br>
+
+[SSTI2](12-27/README.md)
+<br>
